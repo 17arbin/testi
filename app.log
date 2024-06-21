@@ -1,0 +1,32 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 100-261-263
+INFO:app:GET request received from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2024 03:14:57] "GET /api/data HTTP/1.1" 200 -
+INFO:app:GET request received from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2024 03:14:59] "GET /api/data HTTP/1.1" 200 -
+INFO:app:GET request received from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2024 03:15:00] "GET /api/data HTTP/1.1" 200 -
+INFO:app:GET request received from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2024 03:15:02] "GET /api/data HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 100-261-263
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 100-261-263
+INFO:app:GET request received from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2024 03:17:04] "GET /api/data HTTP/1.1" 200 -
+INFO:app:GET request received from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2024 03:17:54] "GET /api/data HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 100-261-263
+INFO:app:GET request received from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2024 03:46:50] "GET /api/data HTTP/1.1" 200 -
+INFO:app:GET request received from 127.0.0.1
+INFO:werkzeug:127.0.0.1 - - [21/Jun/2024 03:47:18] "GET /api/data HTTP/1.1" 200 -
