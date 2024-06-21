@@ -1,7 +1,5 @@
 pipeline {
-    agent {
-        label 'linux'  // Specifies an agent with the 'linux' label
-    }
+    agent any  
     stages {
         stage('Build') {
             steps {
